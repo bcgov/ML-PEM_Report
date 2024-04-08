@@ -1,2 +1,2 @@
 # ML-PEM_Report
-Code for generating journal arcticle
+This is the code and data supporting and generating journal arcticle
